@@ -12,7 +12,7 @@ public class Calculadora extends JFrame{
 		organizarLayout();
 		
 		setSize(232, 322);
-		//setUndecorated(true);
+		//setUndecorated(true); tira barra 
 		setDefaultCloseOperation(EXIT_ON_CLOSE);
 		setLocationRelativeTo(null);
 		setVisible(true);
